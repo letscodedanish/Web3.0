@@ -8,7 +8,7 @@ Any pool member can make a Claim Request from thier pool, for this they have to 
 
 [Video Explanation](https://youtu.be/N8b7mintQho)
 
-[Devpost Project Page](https://devpost.com/software/pinsurance)
+[Devpost Project Page](https://devpost.com/software/web-3-car-insurance-plateform)
 
 ### Built with
 - Solidity
